@@ -26,7 +26,7 @@ const Home = () => {
 
     return (
     <DisplayCampaigns
-    title="All Campaigns"
+    title="Total Campaigns"
     isLoading={isLoading}
     campaigns={campaigns}
     />
