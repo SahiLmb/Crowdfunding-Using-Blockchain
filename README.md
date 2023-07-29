@@ -53,7 +53,7 @@
             <img src='client/src/assets/After Donation.png' alt='After'>
         </td>
         <td>
-            <img src='client/src/assets/Donors Address.png' alt='Address'>
+            <img src='client/src/assets/Donors address.png' alt='Address'>
         </td>
     </tr>
     <tr>
