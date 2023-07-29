@@ -11,5 +11,12 @@
 
 ## CONNECT WALLET WITH THE APPLICATION:
 <p align="center">
-  <img src="" width="20%" />
+  <img src="client/src/assets/Home page.png" width="80%" />
 </p>
+<br/>
+
+## CREATE CAMPAIGN FOR CROWDFUNDING:
+<p align="center">
+  <img src="client/src/assets/Wallet Connected.png" width="80%" />
+</p>
+<br />
